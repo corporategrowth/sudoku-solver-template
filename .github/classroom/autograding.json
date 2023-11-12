@@ -1,0 +1,274 @@
+{
+  "tests": [
+    {
+      "name": "Level1-1",
+      "run": "pytest --path check/level1/level1_1.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Level1-2",
+      "run": "pytest --path check/level1/level1_2.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Level1-3",
+      "run": "pytest --path check/level1/level1_3.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Level1-4",
+      "run": "pytest --path check/level1/level1_4.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Level1-5",
+      "run": "pytest --path check/level1/level1_5.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Level1-6",
+      "run": "pytest --path check/level1/level1_6.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Level1-7",
+      "run": "pytest --path check/level1/level1_7.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Level1-8",
+      "run": "pytest --path check/level1/level1_8.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Level1-9",
+      "run": "pytest --path check/level1/level1_9.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Level1-10",
+      "run": "pytest --path check/level1/level1_10.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Level2-1",
+      "run": "pytest --path check/level2/level2_1.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Level2-1",
+      "run": "pytest --path check/level2/level2_1.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Level2-2",
+      "run": "pytest --path check/level2/level2_2.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Level2-3",
+      "run": "pytest --path check/level2/level2_3.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Level2-4",
+      "run": "pytest --path check/level2/level2_4.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Level2-6",
+      "run": "pytest --path check/level2/level2_5.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Level2-7",
+      "run": "pytest --path check/level2/level2_7.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Level2-8",
+      "run": "pytest --path check/level2/level2_8.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Level2-9",
+      "run": "pytest --path check/level2/level2_9.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Level2-10",
+      "run": "pytest --path check/level2/level2_10.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Level3-1",
+      "run": "pytest --path check/level3/level3_1.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Level3-2",
+      "run": "pytest --path check/level3/level3_2.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Level3-3",
+      "run": "pytest --path check/level3/level3_3.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Level3-4",
+      "run": "pytest --path check/level3/level3_4.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Level3-5",
+      "run": "pytest --path check/level3/level3_5.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Level3-6",
+      "run": "pytest --path check/level3/level3_6.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Level3-7",
+      "run": "pytest --path check/level3/level3_7.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Level3-8",
+      "run": "pytest --path check/level3/level3_8.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Level3-9",
+      "run": "pytest --path check/level3/level3_9.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Level3-10",
+      "run": "pytest --path check/level3/level3_10.jpg",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 3
+    }
+  ]
+}
