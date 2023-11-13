@@ -1,7 +1,6 @@
 from typing import List
-
-import numpy as np
 from numpy.typing import NDArray
+import numpy as np
 
 
 def solve(image: NDArray[np.uint8], poems: List[str], level: int) -> List[int]:
@@ -16,5 +15,4 @@ def solve(image: NDArray[np.uint8], poems: List[str], level: int) -> List[int]:
         1: possible poem can exist in the image, but there remains other possible poems
         2: the specific poem exist in the card, and there is no other possible poems
     """
-    answer = [0] * len(poems)
-    return answer
+    return [0] * len(poems)
