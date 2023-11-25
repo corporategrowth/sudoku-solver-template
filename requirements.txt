@@ -4,5 +4,17 @@ scipy
 matplotlib
 scikit-learn
 opencv-python
+
 pytest
 colorama
+
+
+requests
+pytest
+colorama
+tensorflow==2.14.0
+keras
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.0.1+cpu
+torchvision==0.15.2+cpu
