@@ -6,7 +6,12 @@ from typing import List
 def detect_card(image: np.ndarray) -> np.ndarray:
     # カードの輪郭を見つけるための処理
     # ここでは単純化のため、最大の輪郭をカードと仮定
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    if len(image.shape) == 3:
+        # image is a color image, convert it to grayscale
+        gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    else:
+        # image is already grayscale
+        gray = image
     blurred = cv2.GaussianBlur(gray, (5, 5), 0)
     edged = cv2.Canny(blurred, 30, 150)
     contours, _ = cv2.findContours(edged.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
